@@ -1,2 +1,3 @@
 # first-demo
-This is my firdt git repository
+This is my first git repository
+author-Suhaniii
